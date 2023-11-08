@@ -42,8 +42,8 @@
     </a>
   </div>
   <br />
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=MohitSingh2002&custom_title=Mohit%20Singh%27s%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitSingh2002&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&area=true&hide_border=true&theme=github&hide_title=true"/>
   
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 
