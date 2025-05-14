@@ -27,7 +27,7 @@
       <img
         align="right"
         width="396"
-        src="http://github-readme-streak-stats.herokuapp.com?user=MohitSingh2002&theme=dracula&date_format=j%20M%5B%20Y%5D"
+        src="https://nirzak-streak-stats.vercel.app?user=MohitSingh2002&theme=dracula&date_format=j%20M%5B%20Y%5D"
       />
     </a>
   </div>
