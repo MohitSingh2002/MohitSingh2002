@@ -2,8 +2,6 @@
 
 ### I'm a self taught programmer.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohitSingh2002" alt="MohitSingh2002" /></a> </p>
-
 - 🔭 I'm currently working on **DSAForge, an interactive platform that visualizes data structures and algorithms in real time with animations and custom code logic execution.**
 
 - 🌱 I'm currently learning **Flutter, Software Architecture and System Design**
